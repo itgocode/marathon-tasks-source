@@ -1,7 +1,7 @@
-# 1 - Биография
+# 1 - Биография (заголовок)
 
 Имя в вашем резюме это самый главный заголовок страницы, поэтому используйте тег
-h1. Текст тега должен содержать ваше имя.
+`<h1>`. Текст тега должен содержать ваше имя.
 
 ## Стартовый код
 
@@ -21,7 +21,7 @@ h1. Текст тега должен содержать ваше имя.
 - Текст заголовка не должен быть пустым
 - Других тегов в тексте быть не должно
 
-# 2 - Биография
+# 2 - Биография (абзацы)
 
 Добавьте два тега абзацев. Один для названия профессии, а второй для биографии.
 
@@ -31,10 +31,7 @@ h1. Текст тега должен содержать ваше имя.
 <h1>Anton Chornyi</h1>
 
 Front-end developer
-
-<!-- TODO: удалить, костыль чтобы не форматировало :) -->
-<br />
-
+<!--  -->
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet odio adipisci
 illo, earum atque quae, sequi magni consectetur sit perferendis sunt laborum
 ipsum quas. A incidunt temporibus aut harum ad.
@@ -85,11 +82,11 @@ Projects
 ```html
 <h2>Projects</h2>
 
-https://lovecamp.allinsol.com/
+https://lovecamp.allinsol.com
 <!--  -->
-https://cryptohub.goit.ua/
+https://cryptohub.goit.ua
 <!--  -->
-https://kidslike.goit.co.ua/
+https://kidslike.goit.co.ua
 ```
 
 ## Код результата
@@ -98,9 +95,9 @@ https://kidslike.goit.co.ua/
 <h2>Project</h2>
 
 <ol>
-  <li>https://lovecamp.allinsol.com/</li>
-  <li>https://cryptohub.goit.ua/</li>
-  <li>https://kidslike.goit.co.ua/</li>
+  <li>https://lovecamp.allinsol.com</li>
+  <li>https://cryptohub.goit.ua</li>
+  <li>https://kidslike.goit.co.ua</li>
 </ol>
 ```
 
@@ -119,9 +116,9 @@ https://kidslike.goit.co.ua/
 <h2>Project</h2>
 
 <ol>
-  <li>https://lovecamp.allinsol.com/</li>
-  <li>https://cryptohub.goit.ua/</li>
-  <li>https://kidslike.goit.co.ua/</li>
+  <li>https://lovecamp.allinsol.com</li>
+  <li>https://cryptohub.goit.ua</li>
+  <li>https://kidslike.goit.co.ua</li>
 </ol>
 ```
 
@@ -132,11 +129,13 @@ https://kidslike.goit.co.ua/
 
 <ol>
   <li>
-    <a href="https://lovecamp.allinsol.com/">https://lovecamp.allinsol.com/</a>
+    <a href="https://lovecamp.allinsol.com">https://lovecamp.allinsol.com</a>
   </li>
-  <li><a href="https://cryptohub.goit.ua/">https://cryptohub.goit.ua/</a></li>
   <li>
-    <a href="https://kidslike.goit.co.ua/">https://kidslike.goit.co.ua/</a>
+    <a href="https://cryptohub.goit.ua">https://cryptohub.goit.ua</a>
+  </li>
+  <li>
+    <a href="https://kidslike.goit.co.ua">https://kidslike.goit.co.ua</a>
   </li>
 </ol>
 ```
@@ -147,7 +146,7 @@ https://kidslike.goit.co.ua/
 
 # 6 - Work experience (место работы)
 
-Добавь разметку для должности (заголовок третьего уровня) и периода работы
+Добавьте разметку для должности (заголовок третьего уровня) и периода работы
 (абзац).
 
 ## Стартовый код
@@ -176,7 +175,7 @@ September 2019 - up to now
 
 # 7 - Work experience (список обязанностей)
 
-Добавь разметку списка обязанностей используя маркированный список.
+Добавьте разметку списка обязанностей используя маркированный список `<ul>`.
 
 ## Стартовый код
 
@@ -215,7 +214,7 @@ Sit quasi libero facilis ea
 
 # 8 - Work experience (полный список)
 
-Добавь разметку еще двух мест работы из макета.
+Добавьте разметку еще двух мест работы из макета.
 
 ## Стартовый код
 
@@ -272,8 +271,8 @@ Sit quasi libero facilis ea
 
 # 9 - Education (всё)
 
-Напиши разметку блока образования по аналогии с тем как вы делали разметку мест
-работы (8 - Work experience).
+Напишите разметку блока образования по аналогии с тем как вы делали разметку
+мест работы (8 - Work experience).
 
 ## Стартовый код
 
@@ -326,9 +325,15 @@ September 2019 - up to now
 <h2>Projects</h2>
 
 <ol>
-  <li><a href="ссылка 1">ссылка 1</a></li>
-  <li><a href="ссылка 2">ссылка 2</a></li>
-  <li><a href="ссылка 3">ссылка 3</a></li>
+  <li>
+    <a href="https://lovecamp.allinsol.com">https://lovecamp.allinsol.com</a>
+  </li>
+  <li>
+    <a href="https://cryptohub.goit.ua">https://cryptohub.goit.ua</a>
+  </li>
+  <li>
+    <a href="https://kidslike.goit.co.ua">https://kidslike.goit.co.ua</a>
+  </li>
 </ol>
 
 <h2>Employment history</h2>
@@ -383,9 +388,15 @@ September 2019 - up to now
   <h2>Project</h2>
 
   <ol>
-    <li><a href="ссылка 1">ссылка 1</a></li>
-    <li><a href="ссылка 2">ссылка 2</a></li>
-    <li><a href="ссылка 3">ссылка 3</a></li>
+    <li>
+      <a href="https://lovecamp.allinsol.com/">https://lovecamp.allinsol.com</a>
+    </li>
+    <li>
+      <a href="https://cryptohub.goit.ua/">https://cryptohub.goit.ua</a>
+    </li>
+    <li>
+      <a href="https://kidslike.goit.co.ua/">https://kidslike.goit.co.ua</a>
+    </li>
   </ol>
 </section>
 
