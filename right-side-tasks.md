@@ -385,7 +385,7 @@ September 2019 - up to now
 </section>
 
 <section>
-  <h2>Project</h2>
+  <h2>Projects</h2>
 
   <ol>
     <li>

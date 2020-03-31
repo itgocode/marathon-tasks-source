@@ -1,0 +1,6 @@
+```css
+ul {
+  padding-left: 0;
+  list-style: none;
+}
+```

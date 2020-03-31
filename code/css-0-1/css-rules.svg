@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="1062.3" height="1131" version="1.1" viewBox="0 0 281.08 299.25" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <marker id="marker8117" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker7811" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker7365" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker6933" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker5613" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker5331" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker4854" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width="1pt"/>
+  </marker>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(27.216 5.5249)">
+  <g>
+   <rect x="-22.718" y="-1.027" width="272.08" height="290.25" fill="#163354" stroke="#808080" stroke-linecap="square" stroke-width=".52917" style="paint-order:fill markers stroke"/>
+   <g font-family="sans-serif" letter-spacing="0px" word-spacing="0px">
+    <g stroke-width=".26458">
+     <text x="-6.8234601" y="79.968742" fill="#808080" font-size="10.583px" style="line-height:1.25" xml:space="preserve"><tspan x="-6.8234601" y="79.968742" fill="#808080" stroke-width=".26458">Селектор</tspan></text>
+     <text x="31.244627" y="32.123508" fill="#ffffff" font-size="10.583px" style="line-height:1.25" xml:space="preserve"><tspan x="31.244627" y="32.123508" fill="#ffffff" font-size="22.578px" stroke-width=".26458">CSS правило</tspan></text>
+     <text x="66.089798" y="69.082237" fill="#808080" font-size="10.583px" style="line-height:1.25" xml:space="preserve"><tspan x="66.089798" y="69.082237">Открывающая </tspan><tspan x="66.089798" y="82.311401">      скобка</tspan></text>
+     <text x="16.396294" y="133.70059" fill="#ff5370" font-size="10.583px" style="line-height:1.25" xml:space="preserve"><tspan x="16.396294" y="133.70059" fill="#ff5370" font-size="19.756px" stroke-width=".26458">p</tspan></text>
+     <text x="12.435439" y="134.16237" fill="#ffffff" font-size="19.756px" style="line-height:1.25" xml:space="preserve"><tspan x="12.435439" y="134.16237">    {  </tspan><tspan x="12.435439" y="150.74155"/><tspan x="12.435439" y="163.97072"/><tspan x="12.435439" y="177.19987"/><tspan x="12.435439" y="198.54431">}</tspan></text>
+    </g>
+    <text x="34.773811" y="160.55058" fill="#000000" font-size="10.583px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="34.773811" y="169.91435" stroke-width=".26458"/></text>
+    <text x="38.993362" y="171.35918" fill="#ffffff" font-size="10.583px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="38.993362" y="171.35918" font-size="19.756px" stroke-width=".26458"><tspan fill="#a492ea">color</tspan> : <tspan fill="#c3e88d">#fff</tspan>;</tspan></text>
+   </g>
+  </g>
+  <path d="m22.148 92.231v16.544" fill="#fff" marker-end="url(#marker4854)" stroke="#fff" stroke-width="1.0583"/>
+  <text x="-9.3930178" y="246.32343" fill="#808080" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-9.3930178" y="246.32343">Закрывающая </tspan><tspan x="-9.3930178" y="259.55261">      скобка</tspan></text>
+  <text x="127.61628" y="109.07751" fill="#808080" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="127.61628" y="109.07751"> Двоеточие -</tspan><tspan x="127.61628" y="122.30667">разделитель</tspan><tspan x="127.61628" y="135.53583"/></text>
+  <g fill="#fff" stroke="#fff" stroke-width="1.0583">
+   <path d="m121.31 126.44-19.511 26.284" marker-end="url(#marker5331)"/>
+   <path d="m75.971 77.889-25.658 35.119" marker-end="url(#marker5613)"/>
+   <path d="m17.605 229.76v-16.544" marker-end="url(#marker6933)"/>
+  </g>
+  <text x="188.24362" y="160.48222" fill="#808080" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="188.24362" y="160.48222">Точка с </tspan><tspan x="188.24362" y="173.7114">запятой</tspan></text>
+  <path d="m177.88 164.42h-16.544" fill="#fff" marker-end="url(#marker7365)" stroke="#fff" stroke-width="1.0583"/>
+  <text x="41.255104" y="217.47633" fill="#808080" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="41.255104" y="217.47633" fill="#808080" stroke-width=".26458">Свойство</tspan></text>
+  <text x="108.45928" y="217.47635" fill="#808080" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="108.45928" y="217.47635" fill="#808080" stroke-width=".26458">Значение</tspan></text>
+  <path d="m68.631 203.25v-16.544" fill="#fff" marker-end="url(#marker7811)" stroke="#fff" stroke-width="1.0583"/>
+  <path d="m125.25 203.25v-16.544" fill="#fff" marker-end="url(#marker8117)" stroke="#fff" stroke-width="1.0583"/>
+ </g>
+</svg>

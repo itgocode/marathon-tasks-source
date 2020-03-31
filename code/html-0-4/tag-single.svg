@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="1062.3" height="1131" version="1.1" viewBox="0 0 281.08 299.25" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <marker id="marker1978" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker1604" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker10654" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width="1pt"/>
+  </marker>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(27.216 5.5249)">
+  <g>
+   <rect x="-22.718" y="-1.027" width="272.08" height="290.25" fill="#163354" stroke="#808080" stroke-linecap="square" stroke-width=".52917" style="paint-order:fill markers stroke"/>
+   <text x="11.332387" y="41.259018" fill="#ffffff" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="11.332387" y="41.259018" fill="#ffffff" font-size="22.578px" stroke-width=".26458">Пустой элемент</tspan></text>
+   <text x="-12.529428" y="135.27899" fill="#ff5370" font-family="sans-serif" font-size="19.756px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-12.529428" y="135.27899">&lt;img <tspan fill="#a492ea"/></tspan><tspan x="-12.529428" y="159.97343"><tspan fill="#a492ea">  src</tspan><tspan fill="#ffffff">="</tspan><tspan fill="#c3e88d">http://cat.ua/1.jpg</tspan><tspan fill="#ffffff">" </tspan></tspan><tspan x="-12.529428" y="184.66788">  <tspan fill="#a492ea">alt</tspan><tspan fill="#ffffff">="</tspan><tspan fill="#c3e88d">cat's photo</tspan><tspan fill="#ffffff">"</tspan> </tspan><tspan x="-12.529428" y="209.36232">&gt;</tspan></text>
+  </g>
+  <path d="m17.213 220.64 0.13402-18.864" fill="#fff" marker-end="url(#marker10654)" stroke="#fff" stroke-width="1.0583"/>
+  <g fill="#808080" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px">
+   <text x="-3.5619709" y="215.41978" style="line-height:1.25" xml:space="preserve"><tspan x="-3.5619709" y="224.78355"/><tspan x="-3.5619709" y="238.01273">    Имя </tspan><tspan x="-3.5619709" y="251.24188">атрибута </tspan></text>
+   <text x="0.2416282" y="41.536644" style="line-height:1.25" xml:space="preserve"><tspan x="0.2416282" y="50.900414"/><tspan x="0.2416282" y="64.129578">Одиночный тег не оборачивает контент</tspan></text>
+   <text x="91.603485" y="71.48893" style="line-height:1.25" xml:space="preserve"><tspan x="91.603485" y="80.852699"/><tspan x="91.603485" y="94.081863">Контент вне кода HTML </tspan><tspan x="91.603485" y="107.31104">   (путь для загрузки)</tspan></text>
+  </g>
+  <path d="m141.25 115.1 0.13402 18.864" fill="#fff" marker-end="url(#marker1604)" stroke="#fff" stroke-width="1.0583"/>
+  <text x="59.337677" y="206.77554" fill="#163354" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="59.337677" y="216.13931"/><tspan x="59.337677" y="229.36848">  Альтернативный контент </tspan><tspan x="59.337677" y="242.59764">       (текст в теге HTML) </tspan><tspan x="59.337677" y="255.82681">если загрузка не произойдет</tspan><tspan x="59.337677" y="269.056"/></text>
+  <path d="m143.83 215.08 0.13402-18.864" fill="#fff" marker-end="url(#marker1978)" stroke="#fff" stroke-width="1.0583"/>
+  <text x="91.603485" y="208.01288" fill="#808080" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="91.603485" y="217.37665"/><tspan x="91.603485" y="230.60582">Альтернативный контент</tspan><tspan x="91.603485" y="243.83498">       в теге HTML </tspan><tspan x="91.603485" y="257.06415"> ( если ошибка загрузки )</tspan></text>
+ </g>
+</svg>

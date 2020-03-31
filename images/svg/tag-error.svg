@@ -1,419 +1,49 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1062.3353"
-   height="1131.0256"
-   viewBox="0 0 281.07622 299.25054"
-   version="1.1"
-   id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="tag-error.svg">
-  <defs
-     id="defs2">
-    <marker
-       inkscape:stockid="Arrow1Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker1379"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1377"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
-         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker9432"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend">
-      <path
-         transform="matrix(-0.4,0,0,-0.4,-4,0)"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path9430"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker9070"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         id="path9068"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
-         transform="matrix(-0.4,0,0,-0.4,-4,0)"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker7552"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend">
-      <path
-         transform="matrix(-0.4,0,0,-0.4,-4,0)"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path7550"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker5620"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         id="path5618"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
-         transform="matrix(-0.4,0,0,-0.4,-4,0)"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker5008"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:collect="always">
-      <path
-         transform="matrix(-0.4,0,0,-0.4,-4,0)"
-         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path5006"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker4950"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         id="path4948"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
-         transform="matrix(-0.4,0,0,-0.4,-4,0)"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1Mend"
-       style="overflow:visible"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         id="path4649"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
-         transform="matrix(-0.4,0,0,-0.4,-4,0)"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow2Lend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow2Lend"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         id="path4661"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
-         inkscape:connector-curvature="0" />
-    </marker>
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="597.90979"
-     inkscape:cy="628.18401"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1500"
-     inkscape:window-height="625"
-     inkscape:window-x="307"
-     inkscape:window-y="254"
-     inkscape:window-maximized="0"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     fit-margin-top="16"
-     units="px"
-     fit-margin-bottom="16"
-     fit-margin-right="16"
-     fit-margin-left="16">
-    <sodipodi:guide
-       position="61.894046,184.95018"
-       orientation="0,1"
-       id="guide4606"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="83.275608,176.99891"
-       orientation="1,0"
-       id="guide4608"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="39.309772,175.72938"
-       orientation="1,0"
-       id="guide4610"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="57.617734,171.51989"
-       orientation="0,1"
-       id="guide4612"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="61.989635,201.49422"
-       orientation="1,0"
-       id="guide4622"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="161.0194,67.785138"
-       orientation="0,1"
-       id="guide9050"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="133.80511,105.96073"
-       orientation="0,1"
-       id="guide9052"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="145.1444,133.17502"
-       orientation="0,1"
-       id="guide9390"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="110.74856,152.4518"
-       orientation="0,1"
-       id="guide9830"
-       inkscape:locked="false" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(27.215826,5.5249297)">
-    <rect
-       style="fill:#163354;fill-opacity:1;stroke:#808080;stroke-width:0.52916664;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect4584"
-       width="272.08038"
-       height="290.2547"
-       x="-22.717909"
-       y="-1.0270131" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="8.506175"
-       y="100.10935"
-       id="text4520"><tspan
-         sodipodi:role="line"
-         id="tspan4518"
-         x="8.506175"
-         y="100.10935"
-         style="fill:#808080;fill-opacity:1;stroke-width:0.26458332">        Тег</tspan><tspan
-         sodipodi:role="line"
-         x="8.506175"
-         y="113.33852"
-         style="fill:#808080;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan4544">открывающий</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="0.53455997"
-       y="216.68201"
-       id="text4524"><tspan
-         sodipodi:role="line"
-         id="tspan4522"
-         x="0.53455997"
-         y="226.04578"
-         style="fill:#808080;fill-opacity:1;stroke-width:0.26458332" /><tspan
-         sodipodi:role="line"
-         x="0.53455997"
-         y="239.27495"
-         style="fill:#808080;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan1009">    Пробел перед </tspan><tspan
-         sodipodi:role="line"
-         x="0.53455997"
-         y="252.5041"
-         style="fill:#808080;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan1367">     именем тега</tspan></text>
-    <text
-       id="text4552"
-       y="35.298512"
-       x="43.944637"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         style="font-size:22.57777786px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
-         y="35.298512"
-         x="43.944637"
-         id="tspan4550"
-         sodipodi:role="line">Осторожно,</tspan><tspan
-         style="font-size:22.57777786px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
-         y="63.520733"
-         x="43.944637"
-         sodipodi:role="line"
-         id="tspan1585">   ошибка</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff5370;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="23.453901"
-       y="180.25758"
-       id="text4570"><tspan
-         sodipodi:role="line"
-         id="tspan4568"
-         x="23.453901"
-         y="180.25758"
-         style="font-size:19.75555611px;fill:#ff5370;fill-opacity:1;stroke-width:0.26458332">&lt; p&gt;</tspan></text>
-    <text
-       id="text4574"
-       y="182.39572"
-       x="144.83189"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff5370;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         style="font-size:19.75555611px;fill:#ff5370;fill-opacity:1;stroke-width:0.26458332"
-         y="182.39572"
-         x="144.83189"
-         id="tspan4572"
-         sodipodi:role="line">&lt;/p&gt;</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="83.374657"
-       y="139.80661"
-       id="text4582"><tspan
-         sodipodi:role="line"
-         id="tspan4580"
-         x="83.374657"
-         y="139.80661"
-         style="fill:#808080;fill-opacity:1;stroke-width:0.26458332">Контент</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="77.320145"
-       y="182.39572"
-       id="text4588"><tspan
-         sodipodi:role="line"
-         id="tspan4586"
-         x="77.320145"
-         y="182.39572"
-         style="font-size:19.75555611px;fill:#ffffff;stroke-width:0.26458332">Текст</tspan></text>
-    <g
-       id="g4990"
-       transform="translate(11.641668,43.391686)">
-      <path
-         style="fill:none;stroke:#fffffc;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 136.44833,122.20572 v -13.43029 h 43.96583 v 13.43029"
-         id="path4630"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccc" />
-      <path
-         style="fill:#ffffff;stroke:#ffffff;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker4950)"
-         d="M 159.12819,92.231389 V 108.77543"
-         id="path4632"
-         inkscape:connector-curvature="0" />
-    </g>
-    <path
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
-       d="m 107.41628,143.23273 v 16.54404"
-       id="path4638"
-       inkscape:connector-curvature="0" />
-    <g
-       id="g4996"
-       transform="translate(-110.59596,43.391686)">
-      <path
-         sodipodi:nodetypes="cccc"
-         inkscape:connector-curvature="0"
-         id="path4992"
-         d="m 136.44833,122.20572 v -13.43029 h 43.96583 v 13.43029"
-         style="fill:none;stroke:#fffffc;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path4994"
-         d="M 159.12819,92.231389 V 108.77543"
-         style="fill:#ffffff;stroke:#ffffff;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker4950)" />
-    </g>
-    <path
-       inkscape:connector-curvature="0"
-       id="path5004"
-       d="M 51.146091,224.88102 43.089293,184.13656"
-       style="fill:#ff0000;stroke:#ff0000;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5008)"
-       inkscape:transform-center-x="-48.325384"
-       inkscape:transform-center-y="9.9100827"
-       sodipodi:nodetypes="cc" />
-    <text
-       id="text9048"
-       y="98.597435"
-       x="132.55791"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         style="fill:#808080;fill-opacity:1;stroke-width:0.26458332"
-         y="98.597435"
-         x="132.55791"
-         id="tspan9044"
-         sodipodi:role="line">         Тег</tspan><tspan
-         id="tspan9046"
-         style="fill:#808080;fill-opacity:1;stroke-width:0.26458332"
-         y="111.8266"
-         x="132.55791"
-         sodipodi:role="line">закрывающий</tspan></text>
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:transform-center-y="9.9100827"
-       inkscape:transform-center-x="-48.325384"
-       style="fill:#ff0000;stroke:#ff0000;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1379)"
-       d="M 51.146091,224.88102 43.089293,184.13656"
-       id="path1375"
-       inkscape:connector-curvature="0" />
+<svg width="1062.3" height="1131" version="1.1" viewBox="0 0 281.08 299.25" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <marker id="marker1379" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker4950" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mend" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width="1pt"/>
+  </marker>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(27.216 5.5249)">
+  <g>
+   <rect x="-22.718" y="-1.027" width="272.08" height="290.25" fill="#163354" stroke="#808080" stroke-linecap="square" stroke-width=".52917" style="paint-order:fill markers stroke"/>
+   <g font-family="sans-serif" letter-spacing="0px" stroke-width=".26458" word-spacing="0px">
+    <text x="8.506175" y="100.10935" fill="#808080" font-size="10.583px" style="line-height:1.25" xml:space="preserve"><tspan x="8.506175" y="100.10935">        Тег</tspan><tspan x="8.506175" y="113.33852">открывающий</tspan></text>
+    <text x="0.53455997" y="216.68201" fill="#808080" font-size="10.583px" style="line-height:1.25" xml:space="preserve"><tspan x="0.53455997" y="226.04578"/><tspan x="0.53455997" y="239.27495">    Пробел перед </tspan><tspan x="0.53455997" y="252.5041">     именем тега</tspan></text>
+    <text x="43.944637" y="35.298512" fill="#ff0000" font-size="22.578px" style="line-height:1.25" xml:space="preserve"><tspan x="43.944637" y="35.298512">Осторожно,</tspan><tspan x="43.944637" y="63.520733">   ошибка</tspan></text>
+    <text x="23.453901" y="180.25758" fill="#ff5370" font-size="10.583px" style="line-height:1.25" xml:space="preserve"><tspan x="23.453901" y="180.25758" fill="#ff5370" font-size="19.756px" stroke-width=".26458">&lt; p&gt;</tspan></text>
+    <text x="144.83189" y="182.39572" fill="#ff5370" font-size="10.583px" style="line-height:1.25" xml:space="preserve"><tspan x="144.83189" y="182.39572" fill="#ff5370" font-size="19.756px" stroke-width=".26458">&lt;/p&gt;</tspan></text>
+    <text x="83.374657" y="139.80661" fill="#808080" font-size="10.583px" style="line-height:1.25" xml:space="preserve"><tspan x="83.374657" y="139.80661" fill="#808080" stroke-width=".26458">Контент</tspan></text>
+    <text x="77.320145" y="182.39572" fill="#ffffff" font-size="10.583px" style="line-height:1.25" xml:space="preserve"><tspan x="77.320145" y="182.39572" fill="#ffffff" font-size="19.756px" stroke-width=".26458">Текст</tspan></text>
+   </g>
   </g>
+  <g transform="translate(11.642 43.392)" stroke-width="1.0583">
+   <path d="m136.45 122.21v-13.43h43.966v13.43" fill="none" stroke="#fffffc"/>
+   <path d="m159.13 92.231v16.544" fill="#fff" marker-start="url(#marker4950)" stroke="#fff"/>
+  </g>
+  <path d="m107.42 143.23v16.544" fill="#fff" marker-end="url(#Arrow1Mend)" stroke="#fff" stroke-width="1.0583"/>
+  <g transform="translate(-110.6 43.392)" stroke-width="1.0583">
+   <path d="m136.45 122.21v-13.43h43.966v13.43" fill="none" stroke="#fffffc"/>
+   <path d="m159.13 92.231v16.544" fill="#fff" marker-start="url(#marker4950)" stroke="#fff"/>
+  </g>
+  <text x="132.55791" y="98.597435" fill="#808080" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="132.55791" y="98.597435">         Тег</tspan><tspan x="132.55791" y="111.8266">закрывающий</tspan></text>
+  <path d="m51.146 224.88-7.3008-32.013" fill="#f00" marker-end="url(#marker1379)" stroke="#f00" stroke-width="1.0583"/>
+ </g>
 </svg>
