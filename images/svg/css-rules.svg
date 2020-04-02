@@ -14,7 +14,7 @@
    viewBox="0 0 281.07622 299.25054"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="css-rules.svg"
    inkscape:export-filename="C:\Projects\marathon-tasks-source\images\svg\css-rules.png"
    inkscape:export-xdpi="93.032158"
@@ -228,15 +228,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="-117.70115"
+     inkscape:cx="111.43665"
      inkscape:cy="572.38609"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:window-height="1023"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -410,7 +410,7 @@
          id="tspan4800"
          x="34.773811"
          y="169.91435"
-         style="stroke-width:0.26458335"></tspan></text>
+         style="stroke-width:0.26458335" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -509,22 +509,22 @@
     <text
        id="text7795"
        y="217.47633"
-       x="50.250946"
+       x="41.255104"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          id="tspan7793"
          style="fill:#808080;fill-opacity:1;stroke-width:0.26458332"
          y="217.47633"
-         x="50.250946"
+         x="41.255104"
          sodipodi:role="line">Свойство</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="116.39678"
+       x="108.45928"
        y="217.47635"
        id="text7799"><tspan
          sodipodi:role="line"
-         x="116.39678"
+         x="108.45928"
          y="217.47635"
          style="fill:#808080;fill-opacity:1;stroke-width:0.26458332"
          id="tspan7797">Значение</tspan></text>
@@ -535,7 +535,7 @@
        style="fill:#ffffff;stroke:#ffffff;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7811)" />
     <path
        style="fill:#ffffff;stroke:#ffffff;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8117)"
-       d="M 133.18988,203.25056 V 186.70654"
+       d="M 125.25233,203.25056 V 186.70654"
        id="path8113"
        inkscape:connector-curvature="0" />
   </g>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="1062.3" height="1131" version="1.1" viewBox="0 0 281.08 299.25" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <marker id="marker1379" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#f00" fill-rule="evenodd" stroke="#f00" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker4950" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mend" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width="1pt"/>
+  </marker>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(27.216 5.5249)">
+  <rect x="-22.718" y="-1.027" width="272.08" height="290.25" fill="#163354" stroke="#808080" stroke-linecap="square" stroke-width=".52917" style="paint-order:fill markers stroke"/>
+  <g font-family="sans-serif" letter-spacing="0px" stroke-width=".26458" word-spacing="0px">
+   <text x="8.506175" y="100.10935" fill="#808080" font-size="10.583px" style="line-height:1.25" xml:space="preserve"><tspan x="8.506175" y="100.10935">        Тег</tspan><tspan x="8.506175" y="113.33852">открывающий</tspan></text>
+   <text x="0.53455997" y="216.68201" fill="#808080" font-size="10.583px" style="line-height:1.25" xml:space="preserve"><tspan x="0.53455997" y="226.04578"/><tspan x="0.53455997" y="239.27495">    Пробел перед </tspan><tspan x="0.53455997" y="252.5041">     именем тега</tspan></text>
+   <text x="43.944637" y="35.298512" fill="#ff0000" font-size="22.578px" style="line-height:1.25" xml:space="preserve"><tspan x="43.944637" y="35.298512">Осторожно,</tspan><tspan x="43.944637" y="63.520733">   ошибка</tspan></text>
+   <g font-size="10.583px">
+    <text x="23.453901" y="180.25758" fill="#ff5370" style="line-height:1.25" xml:space="preserve"><tspan x="23.453901" y="180.25758" fill="#ff5370" font-size="19.756px" stroke-width=".26458">&lt; p&gt;</tspan></text>
+    <text x="144.83189" y="182.39572" fill="#ff5370" style="line-height:1.25" xml:space="preserve"><tspan x="144.83189" y="182.39572" fill="#ff5370" font-size="19.756px" stroke-width=".26458">&lt;/p&gt;</tspan></text>
+    <text x="83.374657" y="139.80661" fill="#808080" style="line-height:1.25" xml:space="preserve"><tspan x="83.374657" y="139.80661" fill="#808080" stroke-width=".26458">Контент</tspan></text>
+    <text x="77.320145" y="182.39572" fill="#ffffff" style="line-height:1.25" xml:space="preserve"><tspan x="77.320145" y="182.39572" fill="#ffffff" font-size="19.756px" stroke-width=".26458">Текст</tspan></text>
+   </g>
+  </g>
+  <g stroke-width="1.0583">
+   <g transform="translate(11.642 43.392)">
+    <path d="m136.45 122.21v-13.43h43.966v13.43" fill="none" stroke="#fffffc"/>
+    <path d="m159.13 92.231v16.544" fill="#fff" marker-start="url(#marker4950)" stroke="#fff"/>
+   </g>
+   <path d="m107.42 143.23v16.544" fill="#fff" marker-end="url(#Arrow1Mend)" stroke="#fff"/>
+   <g transform="translate(-110.6 43.392)">
+    <path d="m136.45 122.21v-13.43h43.966v13.43" fill="none" stroke="#fffffc"/>
+    <path d="m159.13 92.231v16.544" fill="#fff" marker-start="url(#marker4950)" stroke="#fff"/>
+   </g>
+  </g>
+  <text x="132.55791" y="98.597435" fill="#808080" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="132.55791" y="98.597435">         Тег</tspan><tspan x="132.55791" y="111.8266">закрывающий</tspan></text>
+  <path d="m51.146 224.88-7.3008-32.013" fill="#f00" marker-end="url(#marker1379)" stroke="#f00" stroke-width="1.0583"/>
+ </g>
+</svg>

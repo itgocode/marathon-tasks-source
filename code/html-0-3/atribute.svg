@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="1062.3" height="1131" version="1.1" viewBox="0 0 281.08 299.25" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <marker id="marker19664" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker18626" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker17936" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker14116" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker12698" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker10654" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker7468" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker5008" overflow="visible" orient="auto">
+   <path transform="matrix(-.4 0 0 -.4 -4 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#fff" fill-rule="evenodd" stroke="#fff" stroke-width="1pt"/>
+  </marker>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(27.216 5.5249)">
+  <g>
+   <rect x="-22.718" y="-1.027" width="272.08" height="290.25" fill="#163354" stroke="#808080" stroke-linecap="square" stroke-width=".52917" style="paint-order:fill markers stroke"/>
+   <g font-family="sans-serif" letter-spacing="0px" stroke-width=".26458" word-spacing="0px">
+    <text x="0.17179243" y="249.44011" fill="#808080" font-size="10.583px" style="line-height:1.25" xml:space="preserve"><tspan x="0.17179243" y="258.80389"/><tspan x="0.17179243" y="272.03305">Закрывающий тег</tspan></text>
+    <text x="-6.047976" y="89.706223" fill="#808080" font-size="10.583px" style="line-height:1.25" xml:space="preserve"><tspan x="-6.047976" y="99.069992"/><tspan x="-6.047976" y="112.29916">Пробел</tspan></text>
+    <text x="47.11964" y="24.715168" fill="#ffffff" font-size="22.578px" style="line-height:1.25" xml:space="preserve"><tspan x="47.11964" y="24.715168">Атрибуты </tspan><tspan x="47.11964" y="52.937389">элемента</tspan></text>
+    <text x="-2.4752653" y="154.85789" fill="#ff5370" font-size="10.583px" style="line-height:1.25" xml:space="preserve"><tspan x="-2.4752653" y="154.85789" font-size="19.756px" stroke-width=".26458">&lt;p <tspan fill="#a492ea">class</tspan><tspan fill="#ffffff">="</tspan><tspan fill="#c3e88d">value</tspan><tspan fill="#ffffff">"</tspan>&gt;</tspan></text>
+    <text x="-4.3175111" y="209.15675" fill="#ff5370" font-size="10.583px" style="line-height:1.25" xml:space="preserve"><tspan x="-4.3175111" y="209.15675" fill="#ff5370" font-size="19.756px" stroke-width=".26458">&lt;/p&gt;</tspan></text>
+    <text x="62.254726" y="253.57216" fill="#808080" font-size="10.583px" style="line-height:1.25" xml:space="preserve"><tspan x="62.254726" y="253.57216" fill="#808080" stroke-width=".26458">Контент</tspan></text>
+    <text x="37.78381" y="184.96628" fill="#ffffff" font-size="10.583px" style="line-height:1.25" xml:space="preserve"><tspan x="37.78381" y="184.96628" fill="#ffffff" font-size="19.756px" stroke-width=".26458">Текст</tspan></text>
+   </g>
+  </g>
+  <g fill="#fff" stroke="#fff" stroke-width="1.0583">
+   <path d="m24.537 116.25 4.2776 25.31" marker-end="url(#marker5008)"/>
+   <path d="m80.767 236.63-5.479-35.654" marker-end="url(#marker7468)"/>
+   <path d="m67.93 116.18 0.13402 18.864" marker-end="url(#marker10654)"/>
+  </g>
+  <text x="45.604877" y="75.236061" fill="#808080" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="45.604877" y="84.599831"/><tspan x="45.604877" y="97.828995">    Имя </tspan><tspan x="45.604877" y="111.05817">атрибута </tspan></text>
+  <text x="170.90573" y="177.84007" fill="#808080" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="170.90573" y="187.20384"/><tspan x="170.90573" y="200.43301">Значение </tspan><tspan x="170.90573" y="213.66217">атрибута</tspan></text>
+  <path d="m115.27 110.3-10.425 22.905" fill="#fff" marker-end="url(#marker12698)" stroke="#fff" stroke-width="1.0583"/>
+  <text x="116.59113" y="176.26373" fill="#808080" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="116.59113" y="185.6275"/><tspan x="116.59113" y="198.85667"> Знак </tspan><tspan x="116.59113" y="212.08583">равно </tspan></text>
+  <text x="107.76322" y="80.93261" fill="#808080" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="107.76322" y="90.296379"/><tspan x="107.76322" y="103.52554"> Двойные    кавычки</tspan></text>
+  <g fill="#fff" stroke="#fff" stroke-width="1.0583">
+   <path d="m171.75 187.47-19.779-24.776" marker-end="url(#marker14116)"/>
+   <path d="m123.6 187.47-19.779-24.776" marker-end="url(#marker17936)"/>
+   <path d="m179.3 110.3-10.425 22.905" marker-end="url(#marker18626)"/>
+   <path d="m34.774 256.94-5.479-35.654" marker-end="url(#marker19664)"/>
+  </g>
+  <text x="49.934975" y="56.471508" fill="#808080" font-family="sans-serif" font-size="10.583px" letter-spacing="0px" stroke-width=".26458" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="49.934975" y="65.835274"/><tspan x="49.934975" y="79.064445">Открывающий тег</tspan></text>
+ </g>
+</svg>
